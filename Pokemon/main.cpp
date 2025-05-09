@@ -32,7 +32,9 @@ int main() {
     else 
     { 
         cout << "Invalid choice, Restart game"; 
+        return 0;
     }
+    cout << " an excellent choice!\nBut beware, Trainer,\nthis is only the beginning.\nYour journey is about to unfold.\nNow let’s see if you’ve got what it takes to keep going!\nGood luck, and remember… Choose wisely!";
 
 
     return 0;
